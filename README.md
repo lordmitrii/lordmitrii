@@ -1,4 +1,4 @@
-<h2 align="left">I'm a student at the University of Glasgow with a focus on backend development, DevOps, and machine learning. Currently work with UGRacing and being a part of Glasgow University Software Services (GUSS), contributing to software solutions.</h2>
+<h2 align="left">I focus on web development, DevOps, and machine learning. Currently work at Glasgow University Software Services (GUSS) and being a part of UGRacing, contributing to software solutions.</h2>
 
 ###
 
