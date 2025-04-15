@@ -63,9 +63,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lordmitrii/lordmitrii/output/snake.svg" alt="Snake animation" />
-
-###
